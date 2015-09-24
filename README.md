@@ -13,5 +13,5 @@ Instructions for installing this extension in 10 easy do-it-yourself steps.
 9. Click save config.  
 10. All done!  
   
-More info: http://www.rapidcommerce.eu/en/blog/category/free-magento-extensions/  
+More info: http://www.rapidcommerce.eu/en/blog/2012/10/magento-browser-update-notice/
 Questions: https://www.facebook.com/RapidCommerce
